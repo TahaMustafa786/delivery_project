@@ -7,5 +7,3 @@ spl_autoload_register(function ($className) {
 });
 
 $route = new Route();
-
-?>
